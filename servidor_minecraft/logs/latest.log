@@ -1,30 +1,24 @@
-[21:08:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:08:42] [ServerMain/INFO]: No existing world data, creating new world
-[21:08:43] [ServerMain/INFO]: Loaded 1370 recipes
-[21:08:43] [ServerMain/INFO]: Loaded 1481 advancements
-[21:08:43] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:08:43] [Server thread/INFO]: Loading properties
-[21:08:43] [Server thread/INFO]: Default game type: SURVIVAL
-[21:08:43] [Server thread/INFO]: Generating keypair
-[21:08:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:08:43] [Server thread/INFO]: Using epoll channel type
-[21:08:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:08:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:08:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:08:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:08:43] [Server thread/INFO]: Preparing level "world"
-[21:08:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:08:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[21:08:50] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:08:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[21:08:51] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:08:51] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[21:08:52] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[21:08:52] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[21:08:53] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[21:08:53] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[21:08:54] [Server thread/INFO]: Time elapsed: 4307 ms
-[21:08:54] [Server thread/INFO]: Done (10.767s)! For help, type "help"
-[21:08:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:08:54] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/Server-1.21.4/msx.py<--[HERE]
-[21:09:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:18:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:18:15] [ServerMain/INFO]: Loaded 1370 recipes
+[21:18:15] [ServerMain/INFO]: Loaded 1481 advancements
+[21:18:15] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:18:15] [Server thread/INFO]: Loading properties
+[21:18:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:18:15] [Server thread/INFO]: Generating keypair
+[21:18:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:18:15] [Server thread/INFO]: Using epoll channel type
+[21:18:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:18:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:18:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:18:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:18:15] [Server thread/INFO]: Preparing level "world"
+[21:18:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:18:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:18:18] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:18:18] [Server thread/INFO]: Time elapsed: 2539 ms
+[21:18:18] [Server thread/INFO]: Done (2.797s)! For help, type "help"
+[21:19:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
